@@ -2,6 +2,7 @@
 <html>
 <head>
 	<title>Registration system PHP and MySQL</title>
+    <link rel="stylesheet" href="images/stylesheet">
 </head>
 <body>
 <div class="header">
